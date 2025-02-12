@@ -15,15 +15,18 @@
 ###💼 Skills & Technologies
 
 -Programming Languages: Java, C++, HTML, CSS, JavaScript
+
 -Frameworks & Libraries:  ReactJs
+
 -Tools: Git, GitHub, VS Code.
+
 -Databases: MySQL
 
 ###📫 How to Reach Me
 
 -Email: harshavardhansannithi@gmail.com
--LinkedIn: 
--https://linkedin.com/in/s-harsha-vardhan-67517727a
+
+-LinkedIn: https://linkedin.com/in/s-harsha-vardhan-67517727a
 
 ###📌 Connect with me
 
