@@ -1,8 +1,8 @@
-###👋 Hi, I'm Sannithi Harsha Vardhan!
+👋 Hi, I'm Sannithi Harsha Vardhan!
 
 -Welcome to my GitHub profile! I'm a passionate software developer & Front-End Developer, with experience in Java, C++, HTML, CSS, JavaScript, SQl. My primary focus is on building innovative projects that solve real-world problems.
 
-###🚀 About Me
+🚀 About Me
 
 -💻 I'm a Student at Saveetha University.
 
@@ -12,7 +12,7 @@
 
 -😄 Pronouns: He/Him.
 
-###💼 Skills & Technologies
+💼 Skills & Technologies
 
 -Programming Languages: Java, C++, HTML, CSS, JavaScript
 
@@ -22,13 +22,13 @@
 
 -Databases: MySQL
 
-###📫 How to Reach Me
+📫 How to Reach Me
 
 -Email: harshavardhansannithi@gmail.com
 
 -LinkedIn: https://linkedin.com/in/s-harsha-vardhan-67517727a
 
-###📌 Connect with me
+📌 Connect with me
 
 -Feel free to check out my social media profiles or contact me via email for collaborations or questions!
 <!---
