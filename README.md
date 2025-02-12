@@ -5,8 +5,11 @@
 ###🚀 About Me
 
 -💻 I'm a Student at Saveetha University.
+
 -🌱 I’m currently learning ReactJs & BootStrap technologies.
+
 -📫 How to reach me: harshavardhansannithi@gmail.com
+
 -😄 Pronouns: He/Him.
 
 ###💼 Skills & Technologies
