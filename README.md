@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate software developer & Front-End De
 🚀 About Me
 💻 I'm a Student at Saveetha University.
 🌱 I’m currently learning ReactJs & BootStrap technologies.
-🔭 I’m working on [briefly describe a project you're currently working on]
 📫 How to reach me: harshavardhansannithi@gmail.com
 😄 Pronouns: He/Him.
 
